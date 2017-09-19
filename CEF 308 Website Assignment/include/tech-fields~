@@ -1,0 +1,73 @@
+							<article class='tech-font2'>
+							<p><i> In this section, we quickly ellaborate on some of the available tech fields that exists.</i></p>
+							<br>
+							<strong style='font-family: monospace; font-size: 30px; text-decoration: underline;'>Civil Engineering</strong><br>
+							<img src='./images/civil.jpg' alt='civil image' class='imgstyle'>
+							<p> Civil engineering focuses on the design, construction and maintenance of structures and infrastructure, from the deepest tunnels to the tallest buildings.
+							 Civil engineering is traditionally broken into a number of sub-disciplines. It is the second-oldest engineering discipline after military engineering, and it is defined to distinguish non-military engineering from military engineering. Civil engineering takes place in the public sector from municipal through to national governments, and in the private sector from individual homeowners through to international companies. <a href='https://www.coursera.org/courses?query=civil%20engineering' target='_blank' style='color: #f6ddcc; text-decoration: underline;'>Learn more...</a>
+							</p><br><br>
+							<strong style='font-family: monospace; font-size: 30px; text-decoration: underline;'>Electrical engineering, electronic engineering, information engineering</strong><br><br>
+							<strong style='font-family: monospace; margin-top: 25px;'>Underlying subjects</strong></br>
+							<img src='./images/electr1.jpeg' alt='electrical image 2' class='imgstyle'>
+							<ul class='ulstyle'>
+								<li><a href='http://www.gu.se/english/research/find-our-researchers/?subjectId=20201' target='_blank'>Robotics</a></li>
+								<li><a href='http://www.gu.se/english/research/find-our-researchers/?subjectId=20202' target='_blank'>Control Engineering</a></li>
+								<li><a href='http://www.gu.se/english/research/find-our-researchers/?subjectId=20203' target='_blank'>Communication Systems</a></li>
+								<li><a href='http://www.gu.se/english/research/find-our-researchers/?subjectId=20204' target='_blank'>Telecommunications</a></li>
+								<li><a href='http://www.gu.se/english/research/find-our-researchers/?subjectId=20205' target='_blank'>Signal Processing</a></li>
+								<li><a href='http://www.gu.se/english/research/find-our-researchers/?subjectId=20206' target='_blank'>Computer Systems</a></li>
+								<li><a href='http://www.gu.se/english/research/find-our-researchers/?subjectId=20207' target='_blank'>Embedded Systems</a></li>
+							</ul>
+							<br>
+							<img src='./images/electr.jpeg' alt='electrical image' class='imgstyle'>
+							<p>
+							Electrical and electronic engineering is the branch of engineering that makes use of electricity. Electrical engineering concentrates on systems for generating and transmitting large electrical currents and converting them into other forms of energy, such as mechanical motion. Electronic engineering focusses on lower energy currents for processing and communicating information. <br>Information engineering (IE) or information engineering methodology (IEM) is a software engineering approach to designing and developing information systems. It can also be considered as the generation, distribution, analysis and use of information in systems. <a href='http://learningpath.org/articles/Free_Online_Electrical_Engineering_and_Electronics_Courses_from_Top_Universities.html' target='_blank' style='color: #f6ddcc; text-decoration: underline;'>Learn more...</a></p>
+							<br><br>
+							<strong style='font-family: monospace; font-size: 30px; text-decoration: underline;'>Mechanical Engineering</strong><br><br>
+							<img src='./images/mech.jpg' alt='mechanical images' width='500px' height='300px'><br><br>
+							<p>Mechanical engineering is the discipline that applies engineering, physics, and materials science principles to design, analyze, manufacture, and maintain mechanical systems. It is the branch of engineering that involves the design, production, and operation of machinery. It is one of the oldest and broadest of the engineering disciplines.
+							<br><br>
+							The mechanical engineering field requires an understanding of core areas including mechanics, dynamics, thermodynamics, materials science, structural analysis, and electricity. In addition to these core principles, mechanical engineers use tools such as computer-aided design (CAD), and product life cycle management to design and analyze manufacturing plants, industrial equipment and machinery, heating and cooling systems, transport systems, aircraft, watercraft, robotics, medical devices, weapons, and others. <a href='http://academicearth.org/mechanical-engineering/' target='_blank' style='color: #f6ddcc; text-decoration: underline;'>Learn more...</a>
+							</p><br><br>
+							<strong style='font-family: monospace; font-size: 30px; text-decoration: underline;'>Chemical Engineering</strong><br><br>
+							<img src='./images/chem.jpeg' alt='chemical image' class='imgstyle'>
+							<p>Chemical engineering is a branch of engineering that applies physical sciences (physics and chemistry), life sciences (microbiology and biochemistry), together with applied mathematics and economics to produce, transform, transport, and properly use chemicals, materials and energy. A chemical engineer designs large-scale processes that convert chemicals, raw materials, living cells, microorganisms and energy into useful forms and products. <br><br>Chemical engineers conceive and design processes to produce, transform and transport materials — beginning with experimentation in the laboratory and followed by implementation of technologies in full-scale production. <a href='http://academicearth.org/chemical-engineering/' target='_blank' style='color: #f6ddcc; text-decoration: underline;'>Learn more...</a>
+							</p><br><br>
+							<strong style='font-family: monospace; font-size: 30px; text-decoration: underline;'>Materials Engineering</strong><br><br>
+							<img src='./images/materials.jpeg' alt='materials image' class='imgstyle'>
+							<p>Materials have always played a significant and defining role in human development, from the Stone Age to the material world of today. Materials are central to our prosperity and new materials hold the key to our future development. Material engineers therefore have an essential role in developing the materials of today and the future and in taking performance to the next level.<br><br>
+							The field involves the discovery and design of new materials, with an emphasis on solids. The intellectual origins of materials science stem from the Enlightenment, when researchers began to use analytical thinking from chemistry, physics, and engineering to understand ancient, phenomenological observations in metallurgy and mineralogy. Materials science still incorporates elements of physics, chemistry, and engineering. As such, the field was long considered by academic institutions as a sub-field of these related fields. Beginning in the 1940s, materials science began to be more widely recognized as a specific and distinct field of science and engineering, and major technical universities around the world created dedicated schools of the study. <a href='https://ocw.mit.edu/courses/materials-science-and-engineering/' target='_blank' style='color: #f6ddcc; text-decoration: underline;'>Learn more...</a>
+							</p><br><br>
+							<strong style='font-family: monospace; font-size: 30px; text-decoration: underline;'>Medical Engineering</strong><br><br>
+							<img src='./images/medical.jpg' alt='medical images' width='700px' height='340px'><br><br>
+							<p>Medical engineering applies engineering principles and design concepts to medicine and biology for healthcare purposes. The field seeks to close the gap between engineering and medicine through multidisciplinary working – and engineering knowledge is also used to understand the body better, so that new and innovative tools can be developed for the medical community.
+							<br><br>
+							From biomaterials to joint replacement technology, this course will equip you with the knowledge and skills to advance healthcare treatments including monitoring, diagnosis, therapy and rehabilitation. A medical engineer's responsibilities can include research, development, testing and evaluation of medical devices, advisement on new biomedical purchases for hospitals and medical centers. Medical engineers may specialize in medical devices, sports medicine, stem cell research, biomarkers, genomics, nanotechnology and more.
+							<br><br>
+							A medical engineer's responsibilities can include research, development, testing and evaluation of medical devices, advisement on new biomedical purchases for hospitals and medical centers. Medical engineers may specialize in medical devices, sports medicine, stem cell research, biomarkers, genomics, nanotechnology and more. <br>
+							Medical engineering projects can include artificial organs and prosthetic limbs, computer-assisted procedures and treatments, informatics and medical imaging. According to the Biomedical Engineering Society, female engineering students enroll in biomedical engineering programs more than any other engineering specialty. <a href='http://academicearth.org/biomedical-engineering/' target='_blank' style='color: #f6ddcc; text-decoration: underline;'>Learn more...</a>
+							</p><br><br>
+							<strong style='font-family: monospace; font-size: 30px; text-decoration: underline;'>Environmental Engineering</strong><br><br>
+							<img src='./images/env.jpeg' alt='environmental image' class='imgstyle'>
+							<p>Environmental engineering is the branch of engineering concerned with the application of scientific and engineering principles for protection of human populations from the effects of adverse environmental factors; protection of environments, both local and global, from potentially deleterious effects of natural and human activities; and improvement of environmental quality.
+							<br><br>
+							Environmental engineering can also be described as a branch of applied science and technology that addresses the issues of energy preservation, protection of assets and control of waste from human and animal activities. Furthermore, it is concerned with finding plausible solutions in the field of public health, such as waterborne diseases, implementing laws which promote adequate sanitation in urban, rural and recreational areas. It involves waste water management, air pollution control, recycling, waste disposal, radiation protection, industrial hygiene, animal agriculture, environmental sustainability, public health and environmental engineering law. It also includes studies on the environmental impact of proposed construction projects.
+							<br><br>
+							Environmental engineers study the effect of technological advances on the environment. To do so, they conduct studies on hazardous-waste management to evaluate the significance of such hazards, advise on treatment and containment, and develop regulations to prevent mishaps. Environmental engineers design municipal water supply and industrial wastewater treatment systems. They address local and worldwide environmental issues such as the effects of acid rain, global warming, ozone depletion, water pollution and air pollution from automobile exhausts and industrial sources. <a href='http://learningpath.org/articles/Free_Online_Environmental_Engineering_Courses_from_Top_Universities.html' target='_blank' style='color: #f6ddcc; text-decoration: underline;'>Learn more...</a>
+							</p><br><br>
+							<strong style='font-family: monospace; font-size: 30px; text-decoration: underline;'>Environmental Biotechnology</strong><br><br>
+							<img src='./images/bio.jpeg' alt='biotechnology image' class='imgstyle'>
+							<p>Environmental biotechnology is biotechnology that is applied to and used to study the natural environment. Environmental biotechnology could also imply that one try to harness biological process for commercial uses and exploitation. The International Society for Environmental Biotechnology defines environmental biotechnology as "the development, use and regulation of biological systems for remediation of contaminated environments (land, air, water), and for environment-friendly processes (green manufacturing technologies and sustainable development)".
+							<br><br>
+							Environmental biotechnology can simply be described as "the optimal use of nature, in the form of plants, animals, bacteria, fungi and algae, to produce renewable energy, food and nutrients in a synergistic integrated cycle of profit making processes where the waste of each process becomes the feedstock for another process". <a href='http://www.environmentalscience.org/degree/environmental-biotechnology' target='_blank' style='color: #f6ddcc; text-decoration: underline;'>Learn more...</a></p><br><br>
+							<strong style='font-family: monospace; font-size: 30px; text-decoration: underline;'>Software Engineering</strong><br><br>
+							<img src='./images/soft.jpeg' alt='software image' class='imgstyle'>
+							<p>Computer software engineers apply the principles and techniques of computer science, engineering, and mathematical analysis to the design, development, testing, and evaluation of the software and the systems that enable computers to perform their many applications.
+							<br><br>
+Software engineers are involved in the design and development of many types of software, including software for operating systems and network distribution, and software for compilers (which convert programs for execution on a computer). In programming, or coding, software engineers instruct a computer, line by line, how to perform a desired function. Software engineers must possess strong programming skills, but are often more concerned with developing algorithms and analyzing and solving programming problems than with actually writing code.
+							<br><br>
+Typically Software engineers, working in applications or systems development, analyze first the needs of the user. They then design, construct, test, and maintain computer applications software or systems to meet these needs. <a href='https://mva.microsoft.com/' style='color: #f6ddcc; text-decoration: underline;' target='_blank'>Learn more...</a>
+							</p><br><br>
+
+						</article>
+

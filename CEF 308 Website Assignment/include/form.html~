@@ -1,0 +1,74 @@
+<div class='block-content'>
+									<h2 class='center-align'>Contact Information</h2>
+									<hr id='length2'>
+									<h3 class='contact-margin'style='color: #070e12;'>Main Address:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support Office Address</h3>
+									<br>
+									<p id='overflow'>14504 Greenview Drive, Suite 415&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;349 South Port Circle</p>
+									<br>
+									<p>Laurel, MD 20708&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virginia Beach, VA 23452 									</p><br><br>
+									<h3 class='contact-margin' style='color: #070e12';>Phone:</h3><br>
+									<p>(MTN) +237 651 523 013</p><br>
+									<p>Sales (301)886-8377</p>
+									<br><br>
+									<hr id='length3'>
+									<div class='class-title'>
+									Name&nbsp;&nbsp;<span>*</span>
+									</div>
+<form method='post' action='index.php'>
+									<div class='field'>
+										<label class='caption'>
+										<input class='field-element field-control' name='fname' x-autocompletetype='given-name' spellcheck='false' maxlength='30' data-title='First' type='text'>
+										First Name
+										</label>
+								  </div><br>
+									<div class='field'>
+										<label class='caption'>
+										<input class='field-element field-control' name='lname' x-autocompletetype='surname' spellcheck='false' maxlength='30' data-title='Last' type='text'>
+										Last Name
+										</label>
+									</div>
+									<br><br>
+									<div class='class-title'>
+									Phone&nbsp;&nbsp;<span>*</span>
+									</div>
+									<div class='field'>
+										<label class='caption'>
+										<input class='field-element3' name='phone' x-autocompletetype='phone-area-code' spellcheck='false' maxlength='9' data-title='AreaCode' type='text'>
+										(#########)
+										</label>
+									</div>
+									<br><br>
+									<div class='class-title'>
+									Email Address&nbsp;&nbsp;<span>*</span>
+									</div>
+									<div class='field'>
+										<label class='caption'>
+										<input class='field-element field-control' name='email' x-autocompletetype='email' spellcheck='false' type='text'>
+										</label>
+								  </div>
+
+									<br><br>
+									<div class='class-title'>
+									Subject&nbsp;&nbsp;<span>*</span>
+									</div>
+									<div class='field'>
+										<label class='caption'>
+										<input class='field-element field-control' name='subject' type='text'>
+										</label>
+									</div>
+
+									<br><br>
+									<div class='class-title'>
+									Message&nbsp;&nbsp;<span>*</span>
+									</div>
+									<div class='field'>
+										<label class='caption'>
+										<textarea class='field-element field-control' name='message' spellcheck='true' type='text'></textarea>
+										</label>
+								  </div>
+								<div class='btn'>
+									<input class='button' type='submit' name='submit2' value='Submit'/>
+								</div>
+</form>
+								</div>
+								
